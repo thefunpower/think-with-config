@@ -10,5 +10,5 @@ composer require thefunpower/think-with-config
 
 ### 开源协议 
 
-[LICENSE](LICENSE.md)
+[Apache License 2.0](LICENSE)
  
